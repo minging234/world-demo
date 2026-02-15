@@ -1,0 +1,18 @@
+# Godot cache
+.godot/
+*.import
+
+# LLM config with real API keys
+config/llm_config.json
+
+# Generated portraits
+assets/portraits/
+assets/thumbnails/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor backups
+*~
+*.swp

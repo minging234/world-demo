@@ -1,0 +1,22 @@
+{
+	"realms": [
+		"练气 (Qi Refining)",
+		"筑基 (Foundation)",
+		"金丹 (Core Formation)"
+	],
+	"elements": ["Fire", "Water", "Wood", "Metal", "Earth"],
+	"personality_traits": [
+		"brave", "cunning", "shy", "hot-headed", "scholarly",
+		"lazy", "kind", "arrogant", "mysterious", "cheerful"
+	],
+	"backstory_tags": [
+		"orphan", "noble family", "wandering", "sect disciple",
+		"self-taught", "exiled"
+	],
+	"genders": ["Male", "Female"],
+	"age_range": {
+		"min": 16,
+		"max": 200,
+		"weight_young": 0.7
+	}
+}
