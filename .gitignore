@@ -1,6 +1,7 @@
 # Godot cache
 .godot/
 *.import
+*.uid
 
 # LLM config with real API keys
 config/llm_config.json
